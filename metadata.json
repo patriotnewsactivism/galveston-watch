@@ -1,0 +1,5 @@
+{
+  "name": "Galveston Watch",
+  "description": "Real-time incident dashboard and scanner aggregator for Galveston County, TX.",
+  "requestFramePermissions": ["geolocation"]
+}
